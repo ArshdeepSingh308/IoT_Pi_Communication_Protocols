@@ -17,9 +17,7 @@ pin = 4 # GPIO-4
 
 # Device Settings
 sensorID = "Gateway"
-# LogEntriesToken = "0e3f12ec-eb2e-4dfb-b664-38d4766af33f" # Part 1
-# LogEntriesToken = "64d57402-d47b-4ec1-8235-a2c8b41a0dd3" # Part2
-LogEntriesToken = "b84e2a88-c8c0-47d4-b441-5db8d86a557e" # temp
+LogEntriesToken = "XXXXXXXXX-XXXXXXXX-XXXXXXX" # temp
 
 # Runtime Variables
 isModeMQTT = True
