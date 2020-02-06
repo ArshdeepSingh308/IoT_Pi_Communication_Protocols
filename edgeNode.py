@@ -23,11 +23,11 @@ sleep_time = 5
 
 # Bluetooth Variables
 port = 2
-serverBluetoothAddress = "B8:27:EB:05:79:FA"
+serverBluetoothAddress = "XX:XX:XX:XX"
 sock = None
 
 # MQTT settings
-broker_address = "192.168.137.43"
+broker_address = "XXX:XXX:XXX:XXX"
 clientName = sensorID
 topic = "sensor/data"
 qualityOfService = 2
