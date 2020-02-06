@@ -11,3 +11,4 @@ According to the time of the day, the two Raspberry Pi’s communicate with each
 During the day time, the Pi’s communicate over Wi-Fi and at the night time they communicate using the Bluetooth. 
 We have also used InsightOps by Rapid 7 for collecting and visualizing the live data.
 
+![Image]()
